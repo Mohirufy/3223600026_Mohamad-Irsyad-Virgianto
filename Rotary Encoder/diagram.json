@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "author": "Gus Akira",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-esp32-s3-devkitc-1",
+      "id": "esp",
+      "top": 112.07,
+      "left": -7.52,
+      "rotate": 90,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-ky-040",
+      "id": "encoder1",
+      "top": 51,
+      "left": -27.5,
+      "rotate": 90,
+      "attrs": {}
+    }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "encoder1:GND", "esp:GND.1", "black", [ "v38.4", "h-77.6" ] ],
+    [ "encoder1:VCC", "esp:3V3.2", "red", [ "v38.4", "h105.2" ] ],
+    [ "esp:10", "encoder1:CLK", "green", [ "v-28.85", "h57.6" ] ],
+    [ "encoder1:DT", "esp:11", "green", [ "v19.2", "h-57.7" ] ]
+  ],
+  "dependencies": {}
+}
