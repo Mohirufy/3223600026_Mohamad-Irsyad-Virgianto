@@ -8,7 +8,7 @@ Link Video: [Video Hasil Percobaan Semua Peripheral](https://drive.google.com/fi
 
 ## Hardware yang Digunakan
 | Komponen | Pin |
-|-----------|------------|------|
+|-----------|------|
 | OLED | SDA=8, SCL=9 |
 | LED | GPIO 7 |
 | Buzzer | GPIO 6 |
