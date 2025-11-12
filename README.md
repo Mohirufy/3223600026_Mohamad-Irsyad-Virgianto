@@ -9,7 +9,7 @@
 
 | Video Hasil Percobaan                                                                 | Link Wokwi                                                                                     |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| [Video Hasil Percobaan Semua Peripheral](https://drive.google.com/file/)                                         | [Wokwi Percobaan Semua Peripheral](https://wokwi.com/projects/447203025213572097)                           |
+| [Video Hasil Percobaan Semua Peripheral](https://drive.google.com/file/d/1gZBGjFDgAgjhzbgmneUae_K-EvhZoiEe/view?usp=sharing)                                         | [Wokwi Percobaan Semua Peripheral](https://wokwi.com/projects/447203025213572097)                           |
 | [Video Hasil Percobaan LED](https://drive.google.com/file/d/)                                         | [Wokwi Percobaan LED](https://wokwi.com/projects/447260800505947137)                           |
 | [Video Hasil Percobaan OLED](https://drive.google.com/file/)                                       | [Wokwi Percobaan OLED](https://wokwi.com/projects/447203811309229057)                           |
 | [Video Hasil Percobaan Buzzer](https://drive.google.com/file/)                                   | [Wokwi Percobaan Buzzer](https://wokwi.com/projects/447280511996153857)                           |
